@@ -1,4 +1,10 @@
-# Zigram
+# Arkenea
+![Home](https://user-images.githubusercontent.com/41955105/124870418-53692480-dfe0-11eb-91fc-b28333a2e772.png)
+![SearchHome](https://user-images.githubusercontent.com/41955105/124870422-549a5180-dfe0-11eb-8b94-2b170359e835.png)
+![Add](https://user-images.githubusercontent.com/41955105/124870436-595f0580-dfe0-11eb-8031-c5e9bc39a98a.png)
+![edit](https://user-images.githubusercontent.com/41955105/124870438-5a903280-dfe0-11eb-8176-d5acc9822f7e.png)
+![upload](https://user-images.githubusercontent.com/41955105/124870441-5c59f600-dfe0-11eb-8647-06fda3821fed.png)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.2.
 
